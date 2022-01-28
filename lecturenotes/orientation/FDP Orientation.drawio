@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-28T02:18:22.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="S4-zDRgx4qkKxDrIe-DJ" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-28T02:33:38.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="vcXLp22uWTimC4hIeWaJ" version="16.4.11" type="github">
   <diagram id="cB2xD58eg4lPSIvs-B4w" name="Page-1">
-    <mxGraphModel dx="1403" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1163" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,8 +49,8 @@
         <mxCell id="4gpTap-luiY6iofxUlM1-20" value="Data Vendors" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="590" y="10" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4gpTap-luiY6iofxUlM1-21" value="Data&amp;nbsp; shared&amp;nbsp; / sold to Vendors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=7;" vertex="1" parent="1">
-          <mxGeometry x="410" y="100" width="60" height="30" as="geometry" />
+        <mxCell id="4gpTap-luiY6iofxUlM1-21" value="Data&amp;nbsp; shared&amp;nbsp; / sold to Vendors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4gpTap-luiY6iofxUlM1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=7;entryX=0;entryY=0.521;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4gpTap-luiY6iofxUlM1-22" target="4gpTap-luiY6iofxUlM1-25">
           <mxGeometry relative="1" as="geometry">
@@ -65,6 +65,45 @@
         </mxCell>
         <mxCell id="4gpTap-luiY6iofxUlM1-26" value="Data is&amp;nbsp; cleaned and organized in a structure fashion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="580" y="86" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-30" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=7;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4gpTap-luiY6iofxUlM1-18" target="4gpTap-luiY6iofxUlM1-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="490" as="sourcePoint" />
+            <mxPoint x="660" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-32" value="Institutions" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="960" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="930" y="240" width="186" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-27" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=7;fontColor=#ffffff;" vertex="1" parent="4gpTap-luiY6iofxUlM1-33">
+          <mxGeometry width="119" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-31" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#1ba1e2;strokeColor=#006EAF;verticalLabelPosition=bottom;verticalAlign=top;align=center;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=7;fontColor=#ffffff;" vertex="1" parent="4gpTap-luiY6iofxUlM1-33">
+          <mxGeometry x="67" width="119" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data is sold to the Instituions&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="940" y="66" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-36" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#008a00;strokeColor=#005700;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;labelBackgroundColor=none;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-37" value="Models" style="text;html=1;strokeColor=#005700;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-38" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=10;exitX=0;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4gpTap-luiY6iofxUlM1-27" target="4gpTap-luiY6iofxUlM1-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="490" as="sourcePoint" />
+            <mxPoint x="550" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4gpTap-luiY6iofxUlM1-39" value="DS/ML Engineers make Models from Data&amp;nbsp; for:&lt;br&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Business Growth&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Customer use&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Regulatory &amp;amp; Compliance&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="640" y="280" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
