@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T11:57:16.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="oiEu19i8Jtu3chB9NmpM" version="16.4.11" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-29T12:02:26.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qmourHEjLs0C6wrvAQQw" version="16.4.11" type="github">
   <diagram id="pkA2IGR9RJrtQdMCSYVz" name="Data Preparation 1">
-    <mxGraphModel dx="1021" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="696" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,8 @@
         <mxCell id="bE6YgklN1v4GopJ7s0x2-9" value="Panel Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="161" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bE6YgklN1v4GopJ7s0x2-16" value="Single Observational unit, over a period of time" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="60" y="231" width="120" height="30" as="geometry" />
+        <mxCell id="bE6YgklN1v4GopJ7s0x2-16" value="Single Observational unit, over a period of time e.g. closing stock price of a company for last 1 year" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=12;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="60" y="250" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bE6YgklN1v4GopJ7s0x2-17" value="Data Organization" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=24;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="40" width="280" height="40" as="geometry" />
@@ -92,6 +92,12 @@
         </mxCell>
         <mxCell id="bE6YgklN1v4GopJ7s0x2-43" value="Ordinal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Comic Sans MS;align=center;fillColor=#d0cee2;strokeColor=#56517e;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bE6YgklN1v4GopJ7s0x2-45" value="Multiple observational unit, at a given point in time e.g. today&#39;s closing stock price for many companies" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=12;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE6YgklN1v4GopJ7s0x2-46" value="Multiple observational unit, over a period of time e.g. closing stock px for many companies for last 1 year" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=12;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="241.5" width="140" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
